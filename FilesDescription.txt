@@ -1,0 +1,7 @@
+program: nJB_GUI(V1.0).py is a python code that generates the GUI for the nano Junction Builder
+
+Input Files: GrapheneLatticeL_XYZ.txt  coordinates of the lattice points for the graphene on the left side 
+             GrapheneLatticeR_XYZ.txt  coordinates of the lattice points for the graphene on the right side 
+
+Output Files: midpointsLattice.txt
+              UnionLattice.txt
